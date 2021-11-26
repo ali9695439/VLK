@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'mont';
+    src: url('../fonts/mont/Mont-ExtraLightDEMO.otf') format('opentype');
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'mont';
+    src: url('../fonts/mont/Mont-HeavyDEMO.otf') format('opentype');
+    font-weight: 800;
+}
+@font-face {
+    font-family: 'icons';
+    src: url('../fonts/icons/fa-light-300.ttf') format('truetype');
+    font-weight: 300;
+}
